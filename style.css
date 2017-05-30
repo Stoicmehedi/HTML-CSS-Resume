@@ -1,1 +1,109 @@
 /* Your CSS styles go here */
+
+	
+
+body{
+	background-color: lightblue;
+}
+#para1{
+	height: 100%
+	
+	width:100%;
+
+color: black;
+background-color: #CECFD0;
+ padding: 3px 0px 3px 0px;
+}
+
+table th{
+text-align: left;	
+background-color: #43B304;	
+color: green:
+padding: 30px 28px 50px 50px;
+border: 2px solid red;
+
+
+}
+table td{
+	
+	border: 2px solid red;
+	padding: 4px 8px;
+ 
+}
+
+div{
+ color:blue;
+
+}
+
+table tr:nth-child(odd) td {
+	background-color: #43B304;
+}
+
+.m{
+	height: 100%
+	
+	width:100%;
+	text-align: center;
+    
+    background-color:#7CA3C6;
+    padding: 15px 15px 36px 25px;
+    
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius: 10px;
+    
+	
+
+}
+
+table {
+	border-collapse: collapse;
+}
+#para3{
+	color: black;
+
+	height: 100%;
+	
+	width:100%;
+	background-color: #CECFD0;
+	 padding: 3px 0px 3px 0px;
+
+}
+
+.m2{
+	height: 100%
+	
+	width:100%;
+	
+	background-color: #43B304;
+	 padding: 25px 25px 25px 26px;
+	 color: white;
+}
+
+.e{
+
+    color: black;
+
+	height: 100%;
+	
+	width:100%;
+	background-color: #CECFD0;
+	 padding: 3px 0px 3px 0px;
+
+
+
+
+}
+
+.e1{
+
+height: 100%
+	
+	width:100%;
+	
+	background-color: #43B304;
+	 padding: 25px 0px 25px 0px;
+	 color: white;
+
+}
